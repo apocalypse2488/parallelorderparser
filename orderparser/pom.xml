@@ -10,7 +10,7 @@
 	</parent>
 	
 	<groupId>com.unlimint</groupId>
-	<artifactId>orderparser</artifactId>
+	<artifactId>order_parser</artifactId>
 	<version>0.0.1</version>
 	<name>orderparser</name>
 	<description>Demo Order Parser</description>
